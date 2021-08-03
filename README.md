@@ -1,5 +1,5 @@
 <p>Second profile for school things</p>
-<p>First Profile : <a href="https://github.com/Yazydev">@Yazydev</a></p>
+<p>First Profile : <a href="https://github.com/Yazydev" target="_blank">@Yazydev</a></p>
 
 <p>Just a normal dude from Italy that likes programming in js,py,go and rust.
 I'm a web developer!
@@ -10,5 +10,5 @@ I'm a web developer!
 <li>Discord : ! Yazy#0001</li>
 
 
-<p>For other informations just go to <a href="https://yazydev.github.io">my website!</a></p> 
+<p>For other informations just go to <a href="https://yazydev.github.io" target="_blank">my website!</a></p> 
 
