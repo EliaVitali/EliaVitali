@@ -11,5 +11,5 @@ I'm a web developer!
 <li>Discord : ! Yazy#0001</li>
 
 
-<p>For other informations just go to <a href="https://yazydev.github.io" target="_blank">my website!</a></p> 
+<p>For other informations just go to <a href="https://eliavitali.github.io" target="_blank">my website!</a></p> 
 
